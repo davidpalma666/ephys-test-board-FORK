@@ -2453,25 +2453,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 250.19 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 250.19 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 250.19 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -2494,7 +2484,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "17b7ba4c-0969-440f-8c6a-fb643c7fb6ac")
@@ -2551,25 +2541,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 252.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 252.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 252.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 252.73 97.79 0)
 			(effects
 				(font
@@ -2680,25 +2660,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 236.22 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 236.22 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 236.22 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 236.22 151.13 0)
 			(effects
 				(font
@@ -2781,25 +2751,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 201.93 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 201.93 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 201.93 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 201.93 151.13 0)
 			(effects
 				(font
@@ -3083,25 +3043,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 213.36 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 213.36 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 213.36 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 213.36 151.13 0)
 			(effects
 				(font
@@ -3193,7 +3143,7 @@
 		(at 252.73 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "a66148c7-982e-4d61-9830-c90652fb4da8")
@@ -3250,25 +3200,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 252.73 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 252.73 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 252.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" "???"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -3299,7 +3239,7 @@
 		(at 190.5 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ad0306a0-9894-4b67-99c0-a268ded29983")
@@ -3358,25 +3298,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 190.5 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 190.5 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 190.5 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 190.5 25.4 0)
 			(effects
 				(font
@@ -3460,25 +3390,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 224.79 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 224.79 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 224.79 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 224.79 151.13 0)
 			(effects
 				(font
@@ -3503,7 +3423,7 @@
 		(at 182.88 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cb713077-41e4-48c7-a97f-9e57a8d18994")
@@ -3562,25 +3482,15 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet1" ""
-			(at 182.88 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No." ""
-			(at 182.88 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Tolerance" ""
+			(at 182.88 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 182.88 25.4 0)
 			(effects
 				(font
