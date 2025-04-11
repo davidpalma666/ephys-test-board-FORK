@@ -9282,7 +9282,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS070103"
 			(at 194.31 92.71 0)
 			(effects
 				(font
@@ -9753,7 +9753,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS070103"
 			(at 88.9 92.71 0)
 			(effects
 				(font

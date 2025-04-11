@@ -4467,7 +4467,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 152.4 127 0)
 			(effects
 				(font
@@ -8451,7 +8451,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080159"
 			(at 215.9 90.17 0)
 			(effects
 				(font
@@ -12215,7 +12215,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 77.47 127 0)
 			(effects
 				(font
@@ -12980,7 +12980,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 77.47 82.55 0)
 			(effects
 				(font
@@ -13919,7 +13919,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 152.4 171.45 0)
 			(effects
 				(font
@@ -14094,7 +14094,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 77.47 171.45 0)
 			(effects
 				(font
@@ -14990,7 +14990,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 152.4 82.55 0)
 			(effects
 				(font
@@ -15457,7 +15457,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 77.47 38.1 0)
 			(effects
 				(font
@@ -15632,7 +15632,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "espera"
+		(property "OEPSPN" "OEPS080161"
 			(at 152.4 38.1 0)
 			(effects
 				(font
