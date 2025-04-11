@@ -3389,7 +3389,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "054d08ca-ad54-431a-b8bc-fe0797b832b2")
 		(property "Reference" "C25"
 			(at 119.38 85.09 90)
@@ -3452,7 +3451,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 119.38 81.28 0)
 			(effects
 				(font
@@ -3466,16 +3491,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 119.38 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3562,7 +3577,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0d285a10-750d-4c6a-a374-fa9d260e08a6")
 		(property "Reference" "#PWR060"
 			(at 152.4 113.03 0)
@@ -3689,7 +3703,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0d8a1ac1-d7b0-40d9-93a9-f496ec78ff18")
 		(property "Reference" "#PWR042"
 			(at 77.47 157.48 0)
@@ -3815,7 +3828,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0df4c68d-94a9-487d-93a2-54443e98b530")
 		(property "Reference" "C19"
 			(at 45.72 173.99 90)
@@ -3878,7 +3890,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 45.72 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 45.72 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 45.72 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 45.72 170.18 0)
 			(effects
 				(font
@@ -3892,16 +3930,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 45.72 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3988,7 +4016,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "18ca37ef-09fe-42c5-9cc8-6e268110f8b2")
 		(property "Reference" "R21"
 			(at 135.89 165.1 90)
@@ -4042,6 +4069,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 135.89 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 135.89 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 135.89 170.18 0)
 			(effects
@@ -4057,7 +4102,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -4066,7 +4110,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4405,7 +4448,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ffb843f-380f-4e25-9de8-9536aa6cace2")
 		(property "Reference" "U9"
 			(at 148.59 113.03 0)
@@ -4459,7 +4501,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 152.4 127 0)
 			(effects
 				(font
@@ -4473,16 +4541,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 152.4 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4580,7 +4638,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "20008a53-e439-44be-af26-9f21c8e37016")
 		(property "Reference" "C20"
 			(at 83.82 26.67 90)
@@ -4643,7 +4700,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 83.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 83.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 83.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 83.82 22.86 0)
 			(effects
 				(font
@@ -4657,16 +4740,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 83.82 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4753,7 +4826,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2256d69f-f75e-45df-abf6-a5b8f395a8ff")
 		(property "Reference" "R9"
 			(at 50.8 176.53 90)
@@ -4807,6 +4879,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 55.88 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 55.88 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 55.88 176.53 0)
 			(effects
@@ -4822,7 +4912,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -4831,7 +4920,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4918,7 +5006,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2751df09-f5f2-45a6-bbdd-8dd8f32d7cbc")
 		(property "Reference" "R11"
 			(at 62.23 76.2 90)
@@ -4972,6 +5059,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 62.23 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 62.23 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 62.23 81.28 0)
 			(effects
@@ -4987,7 +5092,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -4996,7 +5100,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5083,7 +5186,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "284a02aa-e0b1-4548-923d-809bbc842f32")
 		(property "Reference" "#PWR062"
 			(at 152.4 157.48 0)
@@ -5210,7 +5312,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "288f7256-8f33-4a66-96aa-a0945e0385da")
 		(property "Reference" "R10"
 			(at 62.23 31.75 90)
@@ -5264,6 +5365,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 62.23 36.83 0)
 			(effects
@@ -5279,7 +5398,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -5288,7 +5406,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5375,24 +5492,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2b8702f9-5dbc-4ff5-96ef-d91a7f6ab11b")
 		(property "Reference" "R6"
-			(at 58.42 41.9099 0)
+			(at 50.8 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 58.42 44.4499 0)
+			(at 53.34 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -5431,6 +5545,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 55.88 43.18 0)
 			(effects
@@ -5446,7 +5578,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -5455,7 +5586,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5541,7 +5671,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2b91fb12-6277-4742-9a64-c9d7c6a42225")
 		(property "Reference" "C32"
 			(at 251.46 76.2 90)
@@ -5604,7 +5733,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 245.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 245.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 245.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1005X7R1E104K050BB"
 			(at 245.11 76.2 0)
 			(effects
 				(font
@@ -5618,16 +5773,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X7R1E104K050BB"
-			(at 245.11 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5714,24 +5859,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2ddfa8dc-f5b0-467c-a8eb-f05279a7b993")
 		(property "Reference" "R17"
-			(at 132.08 175.2599 0)
+			(at 124.46 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 132.08 177.7999 0)
+			(at 127 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -5770,6 +5912,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 129.54 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 129.54 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 129.54 176.53 0)
 			(effects
@@ -5785,7 +5945,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -5794,7 +5953,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5880,7 +6038,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2f29376e-0479-4001-bde3-8a4332f26cf6")
 		(property "Reference" "C22"
 			(at 83.82 115.57 90)
@@ -5943,7 +6100,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 83.82 111.76 0)
 			(effects
 				(font
@@ -5957,16 +6140,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 83.82 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6306,7 +6479,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "35d6bb10-aedb-4776-bcc3-bee55f5084cd")
 		(property "Reference" "#PWR058"
 			(at 152.4 68.58 0)
@@ -6433,24 +6605,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "362b0e9a-b8cc-4c87-95a6-f5437e4a1aa0")
 		(property "Reference" "R16"
-			(at 132.08 130.8099 0)
+			(at 124.46 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 132.08 133.3499 0)
+			(at 127 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -6489,6 +6658,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 129.54 132.08 0)
 			(effects
@@ -6504,7 +6691,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -6513,7 +6699,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6600,7 +6785,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3a673f24-d07d-4b22-9897-cf66bb741a50")
 		(property "Reference" "#PWR048"
 			(at 88.9 31.75 0)
@@ -7107,7 +7291,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "483f303f-e314-497a-bed3-88f30009a7ba")
 		(property "Reference" "C28"
 			(at 158.75 26.67 90)
@@ -7170,7 +7353,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 158.75 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 158.75 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 158.75 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 158.75 22.86 0)
 			(effects
 				(font
@@ -7184,16 +7393,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 158.75 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7660,7 +7859,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "569995ec-1043-435d-a8c1-4a4150b520ef")
 		(property "Reference" "C17"
 			(at 45.72 85.09 90)
@@ -7723,7 +7921,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 45.72 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 45.72 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 45.72 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 45.72 81.28 0)
 			(effects
 				(font
@@ -7737,16 +7961,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 45.72 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7960,7 +8174,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5b011b72-cf08-44fe-ba7f-19d73d7cb88a")
 		(property "Reference" "#PWR040"
 			(at 77.47 113.03 0)
@@ -8086,7 +8299,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5c3b710b-8e7f-48eb-aa77-b9098615b88f")
 		(property "Reference" "C27"
 			(at 119.38 173.99 90)
@@ -8149,7 +8361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Datasheet1" ""
 			(at 119.38 170.18 0)
 			(effects
 				(font
@@ -8158,13 +8370,21 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS010067"
+		(property "Part No." ""
 			(at 119.38 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 119.38 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "MPN" "GRM155R71E103KA01D"
@@ -8173,7 +8393,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS010067"
+			(at 119.38 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8272,12 +8499,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 96.5199 0)
+			(at 129.54 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -8442,7 +8668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Datasheet1" ""
 			(at 215.9 90.17 0)
 			(effects
 				(font
@@ -8451,13 +8677,21 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS080159"
+		(property "Part No." ""
 			(at 215.9 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 215.9 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "MPN" "SN74HCS595PWR"
@@ -8466,7 +8700,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS080159"
+			(at 215.9 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8594,7 +8835,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "672a0aad-1d78-4bfd-aed4-3df7ca16a568")
 		(property "Reference" "C30"
 			(at 158.75 115.57 90)
@@ -8657,7 +8897,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 158.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 158.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 158.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 158.75 111.76 0)
 			(effects
 				(font
@@ -8671,16 +8937,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 158.75 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8767,7 +9023,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "68cbdfe8-5091-4a8d-8077-35d700ce725e")
 		(property "Reference" "R20"
 			(at 135.89 120.65 90)
@@ -8821,6 +9076,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 135.89 125.73 0)
 			(effects
@@ -8836,7 +9109,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -8845,7 +9117,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8931,7 +9202,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6dc9fb0c-490a-45ce-a5f0-69310ff356e5")
 		(property "Reference" "C21"
 			(at 83.82 71.12 90)
@@ -8994,7 +9264,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 83.82 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 83.82 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 83.82 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 83.82 67.31 0)
 			(effects
 				(font
@@ -9008,16 +9304,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 83.82 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9116,12 +9402,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 140.9699 0)
+			(at 55.88 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -9485,7 +9770,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7516eadc-3863-4c9e-b1fb-cbbb8f1e8282")
 		(property "Reference" "C31"
 			(at 158.75 160.02 90)
@@ -9548,7 +9832,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 158.75 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 158.75 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 158.75 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 158.75 156.21 0)
 			(effects
 				(font
@@ -9562,16 +9872,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 158.75 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9658,7 +9958,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "771811d2-49bf-4998-bdc7-b77c9d295064")
 		(property "Reference" "#PWR050"
 			(at 88.9 120.65 0)
@@ -9785,7 +10084,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "77945712-1a51-4e17-b0aa-0324e9f92569")
 		(property "Reference" "R13"
 			(at 62.23 165.1 90)
@@ -9839,6 +10137,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 62.23 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 62.23 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 62.23 170.18 0)
 			(effects
@@ -9854,7 +10170,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -9863,7 +10178,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9949,7 +10263,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "796b0c44-7ea0-42ea-a140-9a0b289264e7")
 		(property "Reference" "#PWR072"
 			(at 245.11 67.31 0)
@@ -10215,12 +10528,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 185.4199 0)
+			(at 129.54 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -10330,7 +10642,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7bc74840-84e5-445b-a0ed-e783899c936a")
 		(property "Reference" "C26"
 			(at 119.38 129.54 90)
@@ -10393,7 +10704,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 119.38 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 119.38 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 119.38 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 119.38 125.73 0)
 			(effects
 				(font
@@ -10407,16 +10744,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 119.38 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10503,7 +10830,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "828fbbb2-b4f0-4b75-a9b0-1566a806efaf")
 		(property "Reference" "#PWR068"
 			(at 163.83 31.75 0)
@@ -10630,7 +10956,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8724b482-b802-43ff-a22b-e270957a6d98")
 		(property "Reference" "#PWR069"
 			(at 163.83 76.2 0)
@@ -10769,12 +11094,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 52.0699 0)
+			(at 129.54 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -11011,7 +11335,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95305ad4-064b-4317-be34-d40776ae08b8")
 		(property "Reference" "C23"
 			(at 83.82 160.02 90)
@@ -11074,7 +11397,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 83.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 83.82 156.21 0)
 			(effects
 				(font
@@ -11088,16 +11437,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 83.82 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11183,7 +11522,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95331715-0719-4860-804b-054470180cf3")
 		(property "Reference" "C24"
 			(at 119.38 40.64 90)
@@ -11246,7 +11584,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 119.38 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 119.38 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 119.38 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 119.38 36.83 0)
 			(effects
 				(font
@@ -11260,16 +11624,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 119.38 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11356,7 +11710,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "968cb1f2-aa10-45a1-bdb7-48fdeb1d5f08")
 		(property "Reference" "R12"
 			(at 62.23 120.65 90)
@@ -11410,6 +11763,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 62.23 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 62.23 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 62.23 125.73 0)
 			(effects
@@ -11425,7 +11796,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -11434,7 +11804,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11520,7 +11889,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9ab65a66-2228-47d3-9087-8ea9217a5d58")
 		(property "Reference" "C16"
 			(at 45.72 40.64 90)
@@ -11583,7 +11951,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -11597,16 +11991,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 45.72 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11693,7 +12077,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9b6487b0-e0f1-48a6-b2bf-b608c52f4ff8")
 		(property "Reference" "#PWR056"
 			(at 152.4 24.13 0)
@@ -11820,24 +12203,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d669211-924a-45ed-b4f5-96b7c329fa68")
 		(property "Reference" "R14"
-			(at 132.08 41.9099 0)
+			(at 124.46 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 132.08 44.4499 0)
+			(at 127 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -11876,6 +12256,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 129.54 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 129.54 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 129.54 43.18 0)
 			(effects
@@ -11891,7 +12289,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -11900,7 +12297,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11987,24 +12383,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9e3d7ca1-3fd7-4d2c-ad96-b2b3ead8c1ac")
 		(property "Reference" "R7"
-			(at 58.42 86.3599 0)
+			(at 50.8 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 58.42 88.8999 0)
+			(at 53.34 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -12043,6 +12436,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 55.88 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 55.88 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 55.88 87.63 0)
 			(effects
@@ -12058,7 +12469,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -12067,7 +12477,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12153,7 +12562,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a78129a6-97af-48fa-98bc-472b20af6cc9")
 		(property "Reference" "U5"
 			(at 73.66 113.03 0)
@@ -12207,7 +12615,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 77.47 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 77.47 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 77.47 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 77.47 127 0)
 			(effects
 				(font
@@ -12221,16 +12655,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 77.47 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12329,7 +12753,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ac40673c-ed6b-413b-a4fe-2385a9278bd7")
 		(property "Reference" "#PWR051"
 			(at 88.9 165.1 0)
@@ -12583,7 +13006,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b0723a24-0e51-44af-97ac-6c7541a3ab3e")
 		(property "Reference" "R18"
 			(at 135.89 31.75 90)
@@ -12637,6 +13059,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 135.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 135.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 135.89 36.83 0)
 			(effects
@@ -12652,7 +13092,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -12661,7 +13100,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12747,7 +13185,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b134f1f8-a032-43f7-a0f7-6bbb2c5fb683")
 		(property "Reference" "C18"
 			(at 45.72 129.54 90)
@@ -12810,7 +13247,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 45.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 45.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 45.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 45.72 125.73 0)
 			(effects
 				(font
@@ -12824,16 +13287,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 45.72 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12972,7 +13425,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 77.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 77.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 77.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 77.47 82.55 0)
 			(effects
 				(font
@@ -12986,16 +13465,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 77.47 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13106,12 +13575,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 52.0699 0)
+			(at 55.88 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -13234,12 +13702,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 96.5199 0)
+			(at 55.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -13477,7 +13944,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "caf2e7b0-dfd7-4840-9c1e-ab14b6e8fa70")
 		(property "Reference" "#PWR036"
 			(at 77.47 24.13 0)
@@ -13731,7 +14197,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d6ee6ed0-018f-4ae4-b95e-63f768d7ac8e")
 		(property "Reference" "#PWR049"
 			(at 88.9 76.2 0)
@@ -13857,7 +14322,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d7de0974-c24b-4c63-8e2a-1882a912d364")
 		(property "Reference" "U10"
 			(at 148.59 157.48 0)
@@ -13911,7 +14375,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 152.4 171.45 0)
 			(effects
 				(font
@@ -13925,16 +14415,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 152.4 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14032,7 +14512,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d94cb5ee-9cb5-4a3d-a5d3-3ee0f5820d09")
 		(property "Reference" "U6"
 			(at 73.66 157.48 0)
@@ -14086,7 +14565,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 77.47 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 77.47 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 77.47 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 77.47 171.45 0)
 			(effects
 				(font
@@ -14100,16 +14605,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 77.47 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14207,7 +14702,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2343cb3-bfcf-47e9-ae7d-44bbb4d9bfa5")
 		(property "Reference" "C29"
 			(at 158.75 71.12 90)
@@ -14270,7 +14764,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 158.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 158.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 158.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71E103KA01D"
 			(at 158.75 67.31 0)
 			(effects
 				(font
@@ -14284,16 +14804,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71E103KA01D"
-			(at 158.75 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14380,7 +14890,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2b9c677-de5f-46b9-855b-1859d7a158d9")
 		(property "Reference" "#PWR071"
 			(at 163.83 165.1 0)
@@ -14507,7 +15016,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e49aee0d-9f1d-4ae2-ae62-4585b2c205e1")
 		(property "Reference" "#PWR038"
 			(at 77.47 68.58 0)
@@ -14634,24 +15142,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e57ce82d-d0b6-4ed4-8743-f171a51b5cc8")
 		(property "Reference" "R8"
-			(at 58.42 130.8099 0)
+			(at 50.8 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 58.42 133.3499 0)
+			(at 53.34 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -14690,6 +15195,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 55.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 55.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 55.88 132.08 0)
 			(effects
@@ -14705,7 +15228,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -14714,7 +15236,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14813,12 +15334,11 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 140.9699 0)
+			(at 129.54 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -14928,7 +15448,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e8a98be6-0a41-491e-b67e-2c1cad89aa72")
 		(property "Reference" "U8"
 			(at 148.59 68.58 0)
@@ -14982,7 +15501,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 152.4 82.55 0)
 			(effects
 				(font
@@ -14996,16 +15541,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 152.4 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15104,7 +15639,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e95f28c3-da8c-4a38-adfa-c44b454c456f")
 		(property "Reference" "R19"
 			(at 135.89 76.2 90)
@@ -15158,6 +15692,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 135.89 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 135.89 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 135.89 81.28 0)
 			(effects
@@ -15173,7 +15725,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020175"
@@ -15182,7 +15733,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15269,7 +15819,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ead5de75-1e34-4a6e-87ab-2c5954b9fd18")
 		(property "Reference" "#PWR070"
 			(at 163.83 120.65 0)
@@ -15395,7 +15944,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f0327697-0b58-4de9-bcec-543f1a41443f")
 		(property "Reference" "U3"
 			(at 73.66 24.13 0)
@@ -15449,7 +15997,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 77.47 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 77.47 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 77.47 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 77.47 38.1 0)
 			(effects
 				(font
@@ -15463,16 +16037,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 77.47 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15570,7 +16134,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f3f69dfd-32e3-4e97-aa0a-f743f58ce6ac")
 		(property "Reference" "U7"
 			(at 148.59 24.13 0)
@@ -15624,7 +16187,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 152.4 38.1 0)
 			(effects
 				(font
@@ -15638,16 +16227,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 152.4 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15873,24 +16452,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ff2880be-8b74-40c0-af6d-f783d7e9ccb7")
 		(property "Reference" "R15"
-			(at 132.08 86.3599 0)
+			(at 124.46 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "200R"
-			(at 132.08 88.8999 0)
+			(at 127 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -15929,6 +16505,24 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 129.54 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 129.54 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "0.1%"
 			(at 129.54 87.63 0)
 			(effects
@@ -15944,7 +16538,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OEPSPN" "OEPS020171"
@@ -15953,7 +16546,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"

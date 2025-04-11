@@ -2351,7 +2351,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CDBW140-G"
 			(at 152.4 67.31 0)
 			(effects
 				(font
@@ -2365,16 +2391,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CDBW140-G"
-			(at 152.4 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2463,7 +2479,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1005X7R1E104K050BB"
 			(at 187.96 105.41 0)
 			(effects
 				(font
@@ -2477,16 +2519,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X7R1E104K050BB"
-			(at 191.516 102.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2566,7 +2598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Datasheet1" ""
 			(at 168.91 71.12 0)
 			(effects
 				(font
@@ -2575,13 +2607,21 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS020172"
+		(property "Part No." ""
 			(at 168.91 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 168.91 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "MPN" "TNPW1206100RBEEA"
@@ -2590,7 +2630,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS020172"
+			(at 168.91 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2803,7 +2850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Datasheet1" ""
 			(at 147.32 123.19 0)
 			(effects
 				(font
@@ -2812,13 +2859,21 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS080154"
+		(property "Part No." ""
 			(at 147.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 147.32 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "MPN" "AD5683RARMZ"
@@ -2827,7 +2882,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS080154"
+			(at 147.32 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "8"
@@ -3004,7 +3066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Datasheet1" ""
 			(at 118.11 59.69 0)
 			(effects
 				(font
@@ -3013,13 +3075,21 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS010067"
+		(property "Part No." ""
 			(at 118.11 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 118.11 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "MPN" "GRM155R71E103KA01D"
@@ -3028,7 +3098,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS010067"
+			(at 118.11 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3175,7 +3252,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 80.01 71.12 0)
 			(effects
 				(font
@@ -3189,7 +3292,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3268,7 +3370,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 181.61 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 181.61 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 181.61 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "731000105"
 			(at 181.61 71.12 0)
 			(effects
 				(font
@@ -3282,16 +3410,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "731000105"
-			(at 181.61 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3429,7 +3547,7 @@
 				(hide yes)
 			)
 		)
-		(property "TempCo" "X7R"
+		(property "TempCo" "X5R"
 			(at 177.8 105.41 0)
 			(effects
 				(font
@@ -3438,7 +3556,25 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 177.8 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet1" ""
+			(at 177.8 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
 			(at 177.8 105.41 0)
 			(effects
 				(font
@@ -3453,25 +3589,22 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" "OEPS010032"
-			(at 177.8 102.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(property "MPN" "CL31B106KBHNNNE"
-			(at 177.8 102.87 0)
+			(at 177.8 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+			)
+		)
+		(property "OEPSPN" "OEPS010032"
+			(at 177.8 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3682,7 +3815,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 111.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 111.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 111.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 111.76 74.93 0)
 			(effects
 				(font
@@ -3696,16 +3855,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SN74LVC1G3157DCKR"
-			(at 111.76 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3933,7 +4082,33 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet1" ""
+			(at 152.4 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No." ""
+			(at 152.4 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" ""
+			(at 152.4 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CDBW140-G"
 			(at 152.4 74.93 0)
 			(effects
 				(font
@@ -3947,16 +4122,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CDBW140-G"
-			(at 152.4 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
