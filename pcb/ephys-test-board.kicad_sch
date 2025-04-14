@@ -2411,7 +2411,7 @@
 				)
 			)
 		)
-		(property "Value" "10129383-910002ALF"
+		(property "Value" "DNP"
 			(at 252.73 111.76 0)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "10129383-910002ALF"
 			(at 251.46 97.79 0)
 			(effects
 				(font
@@ -2490,7 +2490,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "TBD"
+		(property "OEPSPN" "OEPS070120"
 			(at 251.46 97.79 0)
 			(effects
 				(font
@@ -3167,7 +3167,7 @@
 				)
 			)
 		)
-		(property "Value" "BM03B-SRSS-TB"
+		(property "Value" "DNP"
 			(at 252.73 119.38 0)
 			(effects
 				(font
@@ -3238,7 +3238,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -3246,7 +3246,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "TBD"
+		(property "OEPSPN" "OEPS070121"
 			(at 252.73 113.03 0)
 			(effects
 				(font

@@ -781,7 +781,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "ephys-test-board NEW BOM.csv",
+    "bom_export_filename": "ephys-test-board.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -800,7 +800,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -815,6 +815,12 @@
           "show": true
         },
         {
+          "group_by": false,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": false
+        },
+        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
@@ -827,13 +833,13 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "OEPSPN",
           "name": "OEPSPN",
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "MPN",
           "name": "MPN",
           "show": true
@@ -843,12 +849,6 @@
           "label": "Footprint",
           "name": "Footprint",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": false
         },
         {
           "group_by": false,
@@ -894,11 +894,11 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": false,
+      "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "OEPSPN"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

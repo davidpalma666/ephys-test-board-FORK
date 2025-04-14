@@ -6257,7 +6257,7 @@
 			(fill
 				(type none)
 			)
-			(uuid d00a4553-7b8f-42a2-a663-3ef412ed72a0)
+			(uuid 9e1a89c2-c825-429d-a3a7-f8d9dbad7527)
 		)
 	)
 	(netclass_flag ""
@@ -6656,7 +6656,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "APX803L05-35SA-7"
 			(at 142.24 143.51 0)
 			(effects
 				(font
@@ -6665,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "TBD"
+		(property "OEPSPN" "OEPS080168"
 			(at 142.24 143.51 0)
 			(effects
 				(font
@@ -10780,7 +10780,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "TPD4E05U06DQAR"
 			(at 124.46 58.42 0)
 			(effects
 				(font
@@ -10788,7 +10788,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "TBD"
+		(property "OEPSPN" "OEPS030037"
 			(at 124.46 58.42 0)
 			(effects
 				(font
@@ -13656,7 +13656,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF4702X"
 			(at 97.79 134.62 0)
 			(effects
 				(font
@@ -13665,7 +13665,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" "OEPS020030"
+		(property "OEPSPN" "OEPS020017"
 			(at 97.79 134.62 0)
 			(effects
 				(font
