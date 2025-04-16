@@ -6257,7 +6257,7 @@
 			(fill
 				(type none)
 			)
-			(uuid fd2f873e-2dd3-474e-a81d-bf72674d5f20)
+			(uuid a9542e46-c1d7-43cf-b0ab-87bd81b58d8d)
 		)
 	)
 	(netclass_flag ""
@@ -8230,7 +8230,7 @@
 				)
 			)
 		)
-		(property "Value" "USB4105-GF-A"
+		(property "Value" "S2B-PH-SM4-TB"
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -9742,7 +9742,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07330RL"
+		(property "MPN" "CRCW0603330RFKEAC"
 			(at 182.88 60.96 0)
 			(effects
 				(font
@@ -11109,7 +11109,7 @@
 				)
 			)
 		)
-		(property "Value" "S2B-PH-SM4-TB"
+		(property "Value" "USB4105-GF-A"
 			(at 152.4 39.37 0)
 			(effects
 				(font
